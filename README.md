@@ -73,6 +73,7 @@ Existing integrations:
 - [Sub.ID](https://sub.id/)
 - [Zeitgeist Prediction Markets App](https://app.zeitgeist.pm/)
 - [Polkadot Study](https://polkadot.study/)
+- [Polkassembly](https://polkassembly.network/#/launch-app)
 
 Source Code: [GitHub](https://github.com/dappforce/grillchat)
 
